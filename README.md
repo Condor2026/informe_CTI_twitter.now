@@ -36,7 +36,7 @@ Este repositorio contiene los **tres informes completos** de inteligencia de ame
 - **Estado al 30 de agosto de 2026**: Activo, pero con intermitencias.
 - **Autor**: Condor2026 - ThreatIntel - Panda_Sec_Intel
 - **INFORME Web CTI** https://darktwitter.tiiny.sitio
-- 
+
 ## Informes completos
 
 ### 📄 INFORME CTI Nº1 – Análisis Técnico y de Vulnerabilidades
