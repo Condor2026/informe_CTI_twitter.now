@@ -1,0 +1,27 @@
+# Herramientas OSINT utilizadas en la investigación de twitter.now
+
+# WHOIS / DNS
+whois
+dnsrecon
+dig
+
+# Análisis de infraestructura
+shodan-cli
+censys
+nmap
+
+# Monitorización web
+curl
+wget
+httpie
+
+# Análisis de seguridad (pasivo)
+virus-total-cli
+urlscanio-cli
+
+# Análisis de redes sociales y foros
+snscrape
+twint (alternativa)
+
+# Nota: algunas herramientas requieren API keys o configuración adicional.
+# Estas listas son orientativas; no se ha realizado escaneo activo sin autorización.
