@@ -2,6 +2,24 @@
 
 ![Condor](twitter.now_INFOGRAFIA_1.jpg)
 
+<!-- ===== BADGES DEL PROYECTO ===== -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Estado-Activo-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white&color=00ff41" alt="Estado Activo">
+  <img src="https://img.shields.io/badge/CTI-Inteligencia_de_Amenazas-00ff41?style=for-the-badge&logo=datadog&logoColor=white" alt="CTI">
+  <img src="https://img.shields.io/badge/OSINT-Investigación_Abierta-ff6a00?style=for-the-badge&logo=thehiveproject&logoColor=white" alt="OSINT">
+  <img src="https://img.shields.io/badge/Vulnerabilidades-Críticas-ff4500?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Vulnerabilidades Críticas">
+  <img src="https://img.shields.io/badge/Licencia-CC0-orange?style=for-the-badge&logo=creativecommons&logoColor=white" alt="Licencia CC0">
+  <img src="https://img.shields.io/badge/PII_Leak-Exposición_Confirmada-ff0000?style=for-the-badge&logo=databricks&logoColor=white" alt="PII Leak">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/API-Filtración_de_Emails-critical?style=for-the-badge&logo=postman&logoColor=white&color=ff4500" alt="API Leak">
+  <img src="https://img.shields.io/badge/Firebase-Mal_Configurado-ffaa00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase Misconfig">
+  <img src="https://img.shields.io/badge/Trade_Dress-Riesgo_Legal-ff0000?style=for-the-badge&logo=law&logoColor=white" alt="Trade Dress">
+  <img src="https://img.shields.io/badge/Litigio-X_Corp._vs_Bluebird-1da1f2?style=for-the-badge&logo=x&logoColor=white" alt="Litigio">
+  <img src="https://img.shields.io/badge/Versión-1.0-00ff41?style=for-the-badge&logo=github&logoColor=white" alt="Versión">
+  <img src="https://img.shields.io/badge/Repositorio-Público-00ff41?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio Público">
+</p>
+
 Este repositorio contiene los **tres informes completos** de inteligencia de amenazas (CTI) elaborados entre el 27 y el 30 de agosto de 2026 sobre la plataforma **twitter.now**, operada por **Operation Bluebird, Inc.** , liderada por el exabogado de marcas de Twitter Stephen Coates.
 
 ## Contexto mínimo (para orientar)
