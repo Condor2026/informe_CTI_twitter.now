@@ -1,5 +1,9 @@
 # Informes CTI sobre twitter.now / Operation Bluebird, Inc.
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=700&color=00FF00&center=true&vCenter=true&width=700&lines=Condor2026+%7C+CTI+Reports;twitter.now+%7C+Operation+Bluebird+Intel;Threat+Intelligence+%7C+OSINT" alt="Static text" />
+</p>
+
 ![Condor](twitter.now_INFOGRAFIA_1.jpg)
 
 <!-- ===== BADGES DEL PROYECTO ===== -->
