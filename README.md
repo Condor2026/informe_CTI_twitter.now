@@ -661,7 +661,7 @@ Basado en los reportes, se infiere que:
 ```
 
 ---
-
+```
 ## 📄 INFORME_CTI_N2.md (íntegro)
 
 
@@ -1051,6 +1051,7 @@ Mostrando: "email": "patryk+twitter@howtogetfreestuff.xyz"
 
 ---
 
+```
 ## 📄 INFORME_CTI_N3.md (íntegro)
 
 **INFORME CTI Nº3 – Análisis Crítico y Evaluación Estratégica**
