@@ -1,5 +1,7 @@
 # Informes CTI sobre twitter.now / Operation Bluebird, Inc.
 
+![Condor](twitter.now_INFOGRAFIA_1.jpg)
+
 Este repositorio contiene los **tres informes completos** de inteligencia de amenazas (CTI) elaborados entre el 27 y el 30 de agosto de 2026 sobre la plataforma **twitter.now**, operada por **Operation Bluebird, Inc.** , liderada por el exabogado de marcas de Twitter Stephen Coates.
 
 ## Contexto mínimo (para orientar)
